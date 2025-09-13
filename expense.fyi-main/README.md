@@ -55,9 +55,6 @@ Expense.fyi is an open-source application to effortlessly track and manage your 
 
 Here's how you can contribute:
 
-- [Open an issue](https://github.com/gokulkrishh/expense.fyi/issues) if you believe you've encountered a bug.
-- Make a [pull request](https://github.com/gokulkrishh/expense.fyi/pull) to add new features/make quality-of-life improvements/fix bugs.
-
 <a href="https://github.com/gokulkrishh/expense.fyi/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=gokulkrishh/expense.fyi" alt="contributors" />
 </a>
@@ -68,8 +65,8 @@ Here's how you can contribute:
 
 ## Author
 
-- Gokulakrishnan Kalaikovan ([@gokul_i](https://twitter.com/gokul_i))
+- NageswaraRao47
 
 ## License
 
-Expense.fyi is an open source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. You can [find it here](https://github.com/gokulkrishh/expense.fyi/blob/main/LICENSE).
+Expense.fyi is an open source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. 
